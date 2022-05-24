@@ -18,8 +18,8 @@
     "Native": "ca-app-pub-3940256099942544/2247696110"
   },
   "applovin": {
-    "Banner": "c3da91d7ff6ab67c",
-    "Inter": "9dc8ebb67c8d492d",
+    "Banner": "6e023a657e32e14c",
+    "Inter": "e63daa289cce6bb9",
     "Native": "ca-app-pub-3940256099942544/2247696110"
   },
   "cpa": {
@@ -27,10 +27,10 @@
     "link": "https://grptrk.com/show.php?l=0&u=556135&id=36877&tracking_id="
   },
   "unityTestMode": false,
-  "unityID": "4756905",
+  "unityID": "4768613",
   "unity": {
     "Banner": "banner_yellow",
-    "Inter": "inter_yellow"
+    "Inter": "inter_play_tv"
   },
   "yandex": {
     "Banner": "ca-app-pub-3940256099942544/6300978111",
