@@ -27,9 +27,9 @@
     "link": "https://grptrk.com/show.php?l=0&u=556135&id=36877&tracking_id="
   },
   "unityTestMode": false,
-  "unityID": "4768613",
+  "unityID": "4773738",
   "unity": {
-    "Banner": "banner_yellow",
+    "Banner": "Banner_Android",
     "Inter": "Interstitial_Android"
   },
   "yandex": {
